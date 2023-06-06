@@ -1,5 +1,3 @@
-# React Native 
-> *Tipos de Componentes*
-
+# Tipos de Componentes
 * **Function Component**
 * **Class Component**
